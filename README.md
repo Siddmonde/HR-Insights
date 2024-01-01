@@ -1,6 +1,6 @@
 # HR-Insights
 
-Created the dashboard of employees presence in oiffice.
+Created the dashboard of employees presence in office.
 
 Created the measures such as SL%, WFH%,etc.
 
